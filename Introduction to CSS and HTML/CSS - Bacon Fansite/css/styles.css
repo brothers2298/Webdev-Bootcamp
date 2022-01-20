@@ -1,0 +1,34 @@
+/************************************************************ TAG SELECTORS ***************************************************************/
+
+h1 {
+    color: red;
+    font-size: 200px;
+    margin-block-start: 0%;
+    margin-block-end: 0%
+}
+
+/* Hover is a pseudoclass that may become active when an action is performed. Here when we hover the mouse over the picture the img background changes to gold.
+img:hover {
+    background-color: gold;
+}
+
+/************************************************************* CLASS SELECTORS ************************************************************/
+
+.bacon-img {
+    background-color: green;
+}
+.broccoli-img {
+    background-color: red;
+}
+.circular {
+    border-radius: 100%;
+}
+
+/************************************************************* ID SELECTORS ***************************************************************/
+#big {
+    font-size: 1000px;
+}
+#heading {
+    color: blue;
+}
+/* ID and Class selectors are more specific so they are prioritized over tag selectors. */

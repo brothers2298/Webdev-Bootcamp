@@ -1,0 +1,174 @@
+
+a {
+    color: #11999e;
+    margin: 10px 20px;
+    text-decoration: none;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.1rem;
+}
+
+a:hover {
+    color: #EAF6F6
+}
+
+body {
+    font-family: 'Merriweather', serif;
+    margin: 0;
+    text-align: center;
+
+}
+
+h1 {
+    color: #66BFBF;
+    font-family: 'Sacramento', cursive;
+    font-size: 5.625rem; /* 100% = 16px in font size. 90px/16 = 5.625  1em = 16px = 100% */
+    margin: 50px auto 0px auto; 
+    
+}
+
+h2 {
+    color: #66BFBF;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.5rem;
+    font-weight: bolder;
+    padding-bottom: 20px;
+
+}
+
+h3 {
+    color: #11999E;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.5rem;
+    font-weight: bolder;
+    
+}
+
+hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-color: #c1f0f0;
+    border-width: 8px;
+    margin: 100px auto 100px auto;
+    width: 4%;
+
+}
+
+p {
+    color: #40514E;
+    font-size: 1.25rem;
+    line-height: 2;
+}
+
+.bio {
+    width: 30%;
+    margin: auto;
+
+}
+
+.bottom-cloud {
+    bottom: 500px;
+    left: 500px;
+    position: absolute;
+    
+}
+
+.bottom-container {
+    background-color: #6fbfbf;
+    padding-top: 40px;
+    padding-bottom: 20px;
+}
+
+.btn {
+    background: #11cdd4;
+    background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+    border-radius: 8px;
+    font-family: 'Montserrat', sans-serif;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px; 
+    text-decoration: none;
+  }
+  
+.btn:hover {
+background: #30e3cb;
+background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
+text-decoration: none;
+}
+
+
+.clouds {
+    width: 300px;
+    height: auto;
+}
+
+.contact-desc {
+    width: 40%;
+    margin: 40px auto 60px;
+}
+
+.contact-me {
+    margin: 100px auto 100px auto;
+}
+
+.copyright {
+    color: #EAF6F6;
+    font-size: 0.75rem;
+    padding: 20px 0;
+}
+
+.middle-container {
+    margin: 100px 0;
+}
+
+.mountain {
+    width: 900px;
+    height: auto;
+}
+
+.pro {
+    text-decoration: underline;
+
+}
+
+.skill-1 {
+    width: 25%;
+    float: left;
+    margin-right: 30px
+}
+
+.skill-2 {
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+}
+
+.skill-row {
+    width: 50%;
+    margin: 100px auto 150px auto;
+    text-align: left;
+
+}
+
+
+.top-cloud {
+    position: absolute;
+    right: 500px;
+    top: 50px;
+
+}
+
+.top-container {
+    background-color: #EAF6F6;
+    position: relative;
+    padding-top: 100px;
+
+}
+
+
+
+
+
+
+
+
+
